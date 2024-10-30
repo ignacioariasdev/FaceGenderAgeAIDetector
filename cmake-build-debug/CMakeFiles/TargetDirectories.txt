@@ -1,0 +1,3 @@
+/Users/gasp3r/Desktop/AI Dev Env/C++/FaceGenderAge/cmake-build-debug/CMakeFiles/FaceAgeGenderDetection.dir
+/Users/gasp3r/Desktop/AI Dev Env/C++/FaceGenderAge/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gasp3r/Desktop/AI Dev Env/C++/FaceGenderAge/cmake-build-debug/CMakeFiles/rebuild_cache.dir
